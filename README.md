@@ -24,7 +24,7 @@
 ### Paramount Plus | San Francisco, CA
 &nbsp;_Senior Revenue Optimization Analyst (March 2019 - October 2021)_
   
-  - Designed and implemnted an unsupervised K-Means Algorithm to classify 5000+ portfolio advertisers by buying patterns and budgets for the Private Marketplace Sales Team, enabling more targeted and effective sales outreach by identifying high-value prospects within similar deal categories.
+  - Designed and implemented an unsupervised K-Means Algorithm to classify 5000+ portfolio advertisers by buying patterns and budgets for the Private Marketplace Sales Team, enabling more targeted and effective sales outreach by identifying high-value prospects within similar deal categories.
   - Conducted ad-hoc analyses for 31 brands, including CBS News, CBS Sports, MTV, and CNET, to assess the impact of new AdTech integrations on viewer behavior, traffic, programmatic pricing, and multi-million-dollar revenue goals.
   - Created 14 KPI dashboards for brands and partners using Tableau, Data Studio, and Google Sheets; automated backend data pipelines with SQL, Python, and Google API integrations to streamline performance evaluations.
   - Built a Python-based tool to detect data anomalies and pipeline breakages in seconds, empowering Operations and AdTech teams to troubleshoot issues efficiently; utilized Tableau subscription emails to share insights.
@@ -34,7 +34,8 @@
   - Analyzed datasets with over 1M data points to enhance data mining, feature engineering, and communication skills, delivering insights to executives, sales teams, and AdTech engineers.
   
 ### MetaRail | San Francisco, CA
-&nbsp;Commerce-based Advertising AdTech company specializing in publisher-side monetization
+&nbsp;_Commerce-based Advertising AdTech company specializing in publisher-side monetization_
+
 &nbsp;_E-Commerce and Operations Analyst (May 2018 - March 2019)_
   
   - Performed real-time revenue and CTR performance analysis using R and Excel for 14 content publishers and advertisers.
@@ -46,13 +47,13 @@
   - **Bechdel Test Automation with Deep Learning Co-Reference Resolution**
     - Built a pipeline to automate the Bechdel Test; leveraged recent research in transformer-based chunking techniques and co-reference resolution to identify character interactions and conversation topics, effectively analyzing movie scripts with token counts 55x higher than standard limits.
     - Enhanced text classification with deep learning models, achieving a 14% improvement in F1 score over baseline methods across 400+ scripts.
-[More details in repository] (https://github.com/Alec12/Automating-the-Bechdel-Test)
+    - [More details in repository](https://github.com/Alec12/Automating-the-Bechdel-Test)
       
   - **New York Times Front-Page Article Detection**
     - Developed a binary classification model to predict whether articles will make the front page of the New York Times, leveraging models such as RNNs and Gradient Boosting.
     - Optimized for F1 performance: baseline models achieved 5% F1, logistic regression improved to 73.7% F1, and RNN models delivered the highest performance with 94% F1.
     - (In-Progress) Fine-tuning BERT embeddings to classify article headlines, aiming for further improvements in accuracy and robustness.
-[More details in repository] (https://github.com/Alec12/NYT-Front-Page-Headline-Detection)
+    - &nbsp;[More details in repository](https://github.com/Alec12/NYT-Front-Page-Headline-Detection)
 
   - **Predicting Flight Delays with SparkML**
     - 	Built a scalable machine learning pipeline using SparkML to process and predict flight delays based on weather, airline, and historical data for over 1M flights.
