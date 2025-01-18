@@ -46,11 +46,13 @@
   - **Bechdel Test Automation with Deep Learning Co-Reference Resolution**
     - Built a pipeline to automate the Bechdel Test; leveraged recent research in transformer-based chunking techniques and co-reference resolution to identify character interactions and conversation topics, effectively analyzing movie scripts with token counts 55x higher than standard limits.
     - Enhanced text classification with deep learning models, achieving a 14% improvement in F1 score over baseline methods across 400+ scripts.
+[More details in repository] (https://github.com/Alec12/Automating-the-Bechdel-Test)
       
-  - **New York Times Front-Page Headline NLP Classification**
-    - Designed a binary classification model to predict whether articles will make the front page of the New York Times using LSTM, GTM, and Decision Tree models.
-    - (In-Progress) Fine-tuning BERT embeddings to classify article headline in anticipation of better performance
-    - (In-Progress) Developing custom pre-processing pipelines and visualization dashboards to identify longitudinal trends in headline framing across political, economic, and social issues.
+  - **New York Times Front-Page Article Detection**
+    - Developed a binary classification model to predict whether articles will make the front page of the New York Times, leveraging models such as RNNs and Gradient Boosting.
+    - Optimized for F1 performance: baseline models achieved 5% F1, logistic regression improved to 73.7% F1, and RNN models delivered the highest performance with 94% F1.
+    - (In-Progress) Fine-tuning BERT embeddings to classify article headlines, aiming for further improvements in accuracy and robustness.
+[More details in repository] (https://github.com/Alec12/NYT-Front-Page-Headline-Detection)
 
   - **Predicting Flight Delays with SparkML**
     - 	Built a scalable machine learning pipeline using SparkML to process and predict flight delays based on weather, airline, and historical data for over 1M flights.
