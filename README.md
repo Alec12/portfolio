@@ -1,7 +1,7 @@
 # Data Science Portfolio
 
 ## Education
-### <img src="/assets/img/Seal_of_University_of_California,_Berkeley.jpeg" alt="UC Berkeley Seal" width="16" style="vertical-align: bottom;"/>  University of California, Berkeley | Berkeley, CA
+### ![UC Berkeley Seal](/assets/img/Seal_of_University_of_California,_Berkeley.jpeg) University of California, Berkeley | Berkeley, CA
   
   - **Degree**: Master's of Information and Data Science _(May 2025)_
   - **Related Coursework**: Natural Language Processing with Deep Learning, Machine Learning Data Systems, Machine Learning at Scale, Applied Machine Learning, Python Programming, Statistics for Data Science, Data Visualization
