@@ -44,8 +44,8 @@
 ## Projects
 
   - **Bechdel Test Automation with Deep Learning Co-Reference Resolution**
-    - Built a pipeline to automate the Bechdel Test; leveraged recent research on transformer-based chunking and co-reference resolution to identify character interactions and conversation topics, effectively analyzing movie scripts with token counts 60x higher than standard limits. 
-    - Enhanced text classification with deep learning models, achieving a 20% improvement in F1 score over baseline methods across 400+ scripts.
+    - Built a pipeline to automate the Bechdel Test; leveraged recent research in transformer-based chunking techniques and co-reference resolution to identify character interactions and conversation topics, effectively analyzing movie scripts with token counts 55x higher than standard limits.
+    - Enhanced text classification with deep learning models, achieving a 14% improvement in F1 score over baseline methods across 400+ scripts.
       
   - **New York Times Front-Page Headline NLP Classification**
     - Designed a binary classification model to predict whether articles will make the front page of the New York Times using LSTM, GTM, and Decision Tree models.
