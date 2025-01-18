@@ -1,19 +1,19 @@
 # Data Science Portfolio
 
 ## Education
-  ### University of California, Berkeley | Berkeley, CA
+### University of California, Berkeley | Berkeley, CA
   
   - **Degree**: Master's of Information and Data Science _(May 2025)_
   - **Related Coursework**: Natural Language Processing with Deep Learning, Machine Learning Data Systems, Machine Learning at Scale, Applied Machine Learning, Python Programming, Statistics for Data Science, Data Visualization
   
-  ### University of California, Berkeley | Berkeley, CA
+### University of California, Berkeley | Berkeley, CA
   - **Degree**: B.A. Economics, Minor Industrial Engineering and Operations Research _(December 2018)_
   - **Related Coursework**: Econometrics, Machine Learning and Data Analysis, Forecasting Statistics, Innovation and Design, Rapid Prototyping, Probability and Risk Analysis for Engineers, Industrial Data Systems, Linear Programming and Network Flows
 
 ## Work Experience
 
-  ### Pubmatic, Inc. | Redwood City, CA
-  _Senior Data Analyst (October 2021 - January 2024)_
+### Pubmatic, Inc. | Redwood City, CA
+&nbsp;_Senior Data Analyst (October 2021 - January 2024)_
   
    - Led 18 product rollouts, contributing $27M in additional annual revenue through cross-functional and regional team coordination.
    - Boosted A/B experiment efficiency by 300% by leading the development of a multi-cluster framework and UI, collaborating with AdServer and Analytics leadership.
@@ -21,8 +21,8 @@
    - Identified and evaluated short- and long-term opportunities to enhance auction and machine learning algorithm efficiency, impacting 4,000+ publishers and 140+ demand portfolios.
   - Served as the primary stakeholder for product experimentation, delivering actionable insights and findings to C-suite executives and teams in Product, Marketplace, Engineering, Sales, and Customer Success.
   
-  ### Paramount Plus | San Francisco, CA
-  _Senior Revenue Optimization Analyst (March 2019 - October 2021)_
+### Paramount Plus | San Francisco, CA
+&nbsp;_Senior Revenue Optimization Analyst (March 2019 - October 2021)_
   
   - Designed and implemnted an unsupervised K-Means Algorithm to classify 5000+ portfolio advertisers by buying patterns and budgets for the Private Marketplace Sales Team, enabling more targeted and effective sales outreach by identifying high-value prospects within similar deal categories.
   - Conducted ad-hoc analyses for 31 brands, including CBS News, CBS Sports, MTV, and CNET, to assess the impact of new AdTech integrations on viewer behavior, traffic, programmatic pricing, and multi-million-dollar revenue goals.
@@ -33,9 +33,9 @@
   - Led weekly partnership meetings, presenting in-depth performance analyses to Programmatic Partnership Directors, VPs, and SVPs, driving actionable insights.
   - Analyzed datasets with over 1M data points to enhance data mining, feature engineering, and communication skills, delivering insights to executives, sales teams, and AdTech engineers.
   
-  ### MetaRail | San Francisco, CA
-  Commerce-based Advertising AdTech company specializing in publisher-side monetization
-  _E-Commerce and Operations Analyst (May 2018 - March 2019)_
+### MetaRail | San Francisco, CA
+&nbsp;Commerce-based Advertising AdTech company specializing in publisher-side monetization
+&nbsp;_E-Commerce and Operations Analyst (May 2018 - March 2019)_
   
   - Performed real-time revenue and CTR performance analysis using R and Excel for 14 content publishers and advertisers.
   - Oversaw daily programmatic advertising traffic management and optimization across desktop, mobile web, and applications.
