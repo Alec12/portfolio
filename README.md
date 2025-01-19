@@ -77,11 +77,11 @@
     - Designed a web-based interactive dashboard to explore trends in public datasets (e.g., COVID-19, housing prices), integrating D3.js and Plotly for dynamic visualizations.
     - 	Focused on user-centric insights by combining data storytelling techniques with predictive analytics, enabling better decision-making for non-technical stakeholders.
    
-  - **AdTech SSP Algorithms with No Machine Learning**
-    - Developed heuristic-based algorithms for a Supply-Side Platform (SSP) to optimize auction bidding processes without ML, achieving 20% improvement in bid efficiency.
-    - Designed rule-based traffic filters and prioritization systems for publishers, balancing CPM and fill rates for maximum revenue.
+  - **Recreated a Second-Price Auction Marketplace**
+    - Designed and implemented a second-price auction system in Python to simulate competitive online advertising environments.
+    - Secured a top 10 placement out of 130 classmates with a strategic, heuristic-based bidding algorithm balancing exploration and exploitation while barred from the use of machine learning techniques.
   
-  - **Predictive Analysis for Kickstarter Campaigns, Machine Learning & Data Analytics | Berkeley, CA	    Aug 2018 – Dec 2018**
+  - **Predictive Analysis for Kickstarter Campaigns, Machine Learning & Data Analytics**
     - In a team of five engineers, evaluated 300,000+ Kickstarter projects using NLP and web scraping techniques (i.e. Bag of Words, Beautiful Soup) to extract and process campaign descriptions for predictive modeling.
     - Built an ensemble classification model using Random Forests, Boosting, Stepwise Regression, Logistic Regression, and Neural Network techniques, achieving actionable insights for campaign success prediction and marketing guidance for creators.
   
