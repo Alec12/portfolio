@@ -1,18 +1,18 @@
 # Data Science Portfolio
 
 ## Education
-### University of California, Berkeley | Berkeley, CA
+### **University of California, Berkeley | Berkeley, CA**
   
   - **Degree**: Master's of Information and Data Science _(May 2025)_
   - **Related Coursework**: Natural Language Processing with Deep Learning, Machine Learning Data Systems, Machine Learning at Scale, Applied Machine Learning, Python Programming, Statistics for Data Science, Data Visualization
   
-### University of California, Berkeley | Berkeley, CA
+### **University of California, Berkeley | Berkeley, CA**
   - **Degree**: B.A. Economics, Minor Industrial Engineering and Operations Research _(December 2018)_
   - **Related Coursework**: Econometrics, Machine Learning and Data Analysis, Forecasting Statistics, Innovation and Design, Rapid Prototyping, Probability and Risk Analysis for Engineers, Industrial Data Systems, Linear Programming and Network Flows
 
 ## Work Experience
 
-### Pubmatic, Inc. | Redwood City, CA
+### **Pubmatic, Inc. | Redwood City, CA**
 &nbsp;_Senior Data Analyst (October 2021 - January 2024)_
   
    - Led 18 product rollouts, contributing $27M in additional annual revenue through cross-functional and regional team coordination.
@@ -21,7 +21,7 @@
    - Identified and evaluated short- and long-term opportunities to enhance auction and machine learning algorithm efficiency, impacting 4,000+ publishers and 140+ demand portfolios.
   - Served as the primary stakeholder for product experimentation, delivering actionable insights and findings to C-suite executives and teams in Product, Marketplace, Engineering, Sales, and Customer Success.
   
-### Paramount Plus | San Francisco, CA
+### **Paramount Plus | San Francisco, CA**
 &nbsp;_Senior Revenue Optimization Analyst (March 2019 - October 2021)_
   
   - Designed and implemented an unsupervised K-Means Algorithm to classify 5000+ portfolio advertisers by buying patterns and budgets for the Private Marketplace Sales Team, enabling more targeted and effective sales outreach by identifying high-value prospects within similar deal categories.
@@ -33,7 +33,7 @@
   - Led weekly partnership meetings, presenting in-depth performance analyses to Programmatic Partnership Directors, VPs, and SVPs, driving actionable insights.
   - Analyzed datasets with over 1M data points to enhance data mining, feature engineering, and communication skills, delivering insights to executives, sales teams, and AdTech engineers.
   
-### MetaRail | San Francisco, CA
+### **MetaRail | San Francisco, CA**
 &nbsp;_Commerce-based Advertising AdTech company specializing in publisher-side monetization_
 
 &nbsp;_E-Commerce and Operations Analyst (May 2018 - March 2019)_
@@ -63,8 +63,8 @@
     - &nbsp;[More details in repository](https://github.com/Alec12/Predicting-Flight-Delays-with-Distributed-ML)
       
   - **End-to-End Machine Learning API for Scalable Sentiment Analysis**
-    - Built a scalable machine learning API by developing a prediction service using **FastAPI** with **HuggingFace’s DistilBERT** model for CPU-efficient sentiment analysis. Containerized the application with **Docker** and deployed it on **Azure Kubernetes Service (AKS)**.  
-    - Optimized performance by implementing **Redis** caching to reduce latency and integrating **Grafana** for monitoring system performance and resource utilization during load testing with **k6**.  
+    - Built a scalable machine learning API by developing a prediction service using FastAPI with HuggingFace’s DistilBERT model for CPU-efficient sentiment analysis. Containerized the application with Docker and deployed it on Azure Kubernetes Service (AKS).  
+    - Optimized performance by implementing Redis caching to reduce latency and integrating Grafana for monitoring system performance and resource utilization during load testing with k6.
     - Tackled large-scale deployment challenges by pre-baking the 1GB model into the container image, minimizing pod startup latency and enabling seamless scaling during high-traffic events.
     - &nbsp;[More details in repository](https://github.com/Alec12/scalable-DistilBERT-API)
 
@@ -79,21 +79,21 @@
     - Potential applications include combating misinformation in media, aiding companies like Meta in protecting users, and supporting the music industry in distinguishing AI-generated works to align with copyright regulations.
       
   - **Data Visualization Project** _(In Progress)_
-    - Designed a web-based interactive dashboard to explore trends in public datasets (e.g., COVID-19, housing prices), integrating D3.js and Plotly for dynamic visualizations.
-    - 	Focused on user-centric insights by combining data storytelling techniques with predictive analytics, enabling better decision-making for non-technical stakeholders.
+    - Designing a web-based interactive dashboard to explore trends in housing prices datasets, integrating D3.js and Plotly for dynamic visualizations.
+    - 	Focusing on user-centric insights by combining data storytelling techniques with predictive analytics, enabling better decision-making for non-technical stakeholders.
    
   - **Predictive Analysis for Kickstarter Campaigns, Machine Learning & Data Analytics**
-    - In a team of five engineers, evaluated 300,000+ Kickstarter projects using NLP and web scraping techniques (i.e. Bag of Words, Beautiful Soup) to extract and process campaign descriptions for predictive modeling.
+    - In a team of five engineers, collected and evaluated 300,000+ Kickstarter projects using NLP to extract and process campaign descriptions for predictive modeling.
     - Built an ensemble classification model using Random Forests, Boosting, Stepwise Regression, Logistic Regression, and Neural Network techniques, achieving actionable insights for campaign success prediction and marketing guidance for creators.
   
   - **Business Planning for Startups (BPS) | Sonoma, CA (Co-Founder) | April 2016 – August 2018**
-    *BPS is a pro-bono consulting organization specializing in launch and growth strategies for startups in the Bay Area
+    &nbsp;_*BPS is a pro-bono consulting organization specializing in launch and growth strategies for startups in the Bay Area_
     - Designed comprehensive startup launch plans that include long-term objectives, implementation strategies, and industry/competitor analysis for key stakeholders in companies like River Rock Casino and Lucas Marketing & Media
     - Analyzed current and forecasted startup growth patterns to set revenue milestones, marketing strategies, and pro-forma income statements based on current company assets
 
 
 ### Technical Skills
-  - **Languages:** Python, R, SQL, D3 (JavaScript)
-  - **Developer Tools:** Kubernetes, Docker, Git, CI/CD (e.g. GitHub Actions)
+  - **Languages:** Python, R, SQL, D3, JavaScript
+  - **Developer Tools:** Kubernetes, Docker, Git, CI/CD
   - **Technologies/Frameworks:** TensorFlow, PyTorch, Scikit-learn, Keras, Hugging Face Transformers, NLTK, spaCy, LightGBM
   - **Cloud Platforms:** AWS(SageMaker, Lambda, EC2), GCP (Vertex AI, BigQuery), Microsoft Azure, Databricks, Snowflake
