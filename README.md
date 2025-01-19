@@ -55,17 +55,21 @@
     - (In-Progress) Fine-tuning BERT embeddings to classify article headlines, aiming for further improvements in accuracy and robustness.
     - &nbsp;[More details in repository](https://github.com/Alec12/NYT-Front-Page-Headline-Detection)
 
-  - **Predicting Flight Delays with SparkML**
-    - 	Built a scalable machine learning pipeline using SparkML to process and predict flight delays based on weather, airline, and historical data for over 1M flights.
-    - 	Implemented Gradient Boosting and Random Forest algorithms to achieve a significant lift in delay prediction accuracy, while optimizing computation time for real-time inference.
+  - **Predicting Flight Delays with Parallelized Training**
+    - Analyzed over 31 million rows of flight and weather data using SparkML and a distributed framework, enabling scalable feature engineering and model training.
+    - Leveraged the PageRank algorithm to compute airport centrality as a graph-based feature, capturing traffic flow dynamics and its impact on delay likelihood.
+    - Implemented a blocking time series split for cross-validation, ensuring robust evaluation by training and validating on temporally ordered data to mimic real-world conditions.
+    - Developed a binary classification model to predict delayed arrivals, experimenting with Logistic Regression, Random Forest, and Neural Network models, achieving a 7% improvement in F1 score over the best baseline.
+    - &nbsp;[More details in repository](https://github.com/Alec12/Predicting-Flight-Delays-with-Distributed-ML)
       
   - **Productionalized API for DL Sentiment Classification**
     - Designed and deployed a RESTful API for sentiment classification using a fine-tuned transformer model, enabling integration into web applications with real-time predictions.
     - Engineered robust backend systems with FastAPI, Redis caching, and Dockerized microservices for high availability and low latency.
       
   - **Capstone: Deepfake Audio Detection** _(In Progress)_
-    - Training a convolutional neural network (CNN) to identify deepfake audio samples by extracting spectrogram features from thousands of labeled audio clips.
-    - Conducted adversarial testing to improve robustness, achieving a classification accuracy of 93% on previously unseen data, with potential applications in media verification.
+    - Developing a convolutional neural network (CNN) model to detect deepfake audio by analyzing spectrogram features from thousands of labeled audio samples, with a focus on identifying noisy deepfakes.
+    - Exploring the use of generative adversarial networks (GANs) to create and test watermarking solutions that identify AI-generated audio without compromising sound quality.
+    - Potential applications include combating misinformation in media, aiding companies like Meta in protecting users, and supporting the music industry in distinguishing AI-generated works to align with copyright regulations.
       
   - **Data Visualization Project** _(In Progress)_
     - Designed a web-based interactive dashboard to explore trends in public datasets (e.g., COVID-19, housing prices), integrating D3.js and Plotly for dynamic visualizations.
