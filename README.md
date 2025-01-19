@@ -65,7 +65,8 @@
   - **End-to-End Machine Learning API for Scalable Sentiment Analysis**
     - Built a scalable machine learning API by developing a prediction service using **FastAPI** with **HuggingFace’s DistilBERT** model for CPU-efficient sentiment analysis. Containerized the application with **Docker** and deployed it on **Azure Kubernetes Service (AKS)**.  
     - Optimized performance by implementing **Redis** caching to reduce latency and integrating **Grafana** for monitoring system performance and resource utilization during load testing with **k6**.  
-    - Tackled large-scale deployment challenges by pre-baking the 1GB model into the container image, minimizing pod startup latency and enabling seamless scaling during high-traffic events.  
+    - Tackled large-scale deployment challenges by pre-baking the 1GB model into the container image, minimizing pod startup latency and enabling seamless scaling during high-traffic events.
+    - &nbsp;[More details in repository](https://github.com/Alec12/scalable-DistilBERT-API)
       
   - **Capstone: Deepfake Audio Detection** _(In Progress)_
     - Developing a convolutional neural network (CNN) model to detect deepfake audio by analyzing spectrogram features from thousands of labeled audio samples, with a focus on identifying noisy deepfakes.
