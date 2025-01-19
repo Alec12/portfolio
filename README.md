@@ -67,6 +67,11 @@
     - Optimized performance by implementing **Redis** caching to reduce latency and integrating **Grafana** for monitoring system performance and resource utilization during load testing with **k6**.  
     - Tackled large-scale deployment challenges by pre-baking the 1GB model into the container image, minimizing pod startup latency and enabling seamless scaling during high-traffic events.
     - &nbsp;[More details in repository](https://github.com/Alec12/scalable-DistilBERT-API)
+
+  - **Recreated a Second-Price Auction Marketplace**
+    - Designed and implemented a second-price auction system in Python to simulate competitive online advertising environments.
+    - Secured a top 10 placement out of 130 classmates with a strategic, heuristic-based bidding algorithm balancing exploration and exploitation while barred from the use of machine learning techniques.
+    - [More details in repository]([https://github.com/Alec12/Automating-the-Bechdel-Test](https://github.com/Alec12/AdTech-Second-Price-Auction-Model-Baseline))
       
   - **Capstone: Deepfake Audio Detection** _(In Progress)_
     - Developing a convolutional neural network (CNN) model to detect deepfake audio by analyzing spectrogram features from thousands of labeled audio samples, with a focus on identifying noisy deepfakes.
@@ -77,10 +82,6 @@
     - Designed a web-based interactive dashboard to explore trends in public datasets (e.g., COVID-19, housing prices), integrating D3.js and Plotly for dynamic visualizations.
     - 	Focused on user-centric insights by combining data storytelling techniques with predictive analytics, enabling better decision-making for non-technical stakeholders.
    
-  - **Recreated a Second-Price Auction Marketplace**
-    - Designed and implemented a second-price auction system in Python to simulate competitive online advertising environments.
-    - Secured a top 10 placement out of 130 classmates with a strategic, heuristic-based bidding algorithm balancing exploration and exploitation while barred from the use of machine learning techniques.
-  
   - **Predictive Analysis for Kickstarter Campaigns, Machine Learning & Data Analytics**
     - In a team of five engineers, evaluated 300,000+ Kickstarter projects using NLP and web scraping techniques (i.e. Bag of Words, Beautiful Soup) to extract and process campaign descriptions for predictive modeling.
     - Built an ensemble classification model using Random Forests, Boosting, Stepwise Regression, Logistic Regression, and Neural Network techniques, achieving actionable insights for campaign success prediction and marketing guidance for creators.
