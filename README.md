@@ -95,7 +95,7 @@
 
 
 ### Technical Skills
-  - **Languages:** Python, R, SQL, Spark, Hadoop, D3, JavaScript
-  - **Developer Tools:** Kubernetes, Docker, Git, CI/CD
+  - **Languages:** Python, SQL, R, D3, JavaScript
+  - **Developer Tools:** Kubernetes, Docker, Spark, Hadoop, Git, CI/CD
   - **Technologies/Frameworks:** TensorFlow, PyTorch, Scikit-learn, Keras, Hugging Face Transformers, NLTK, spaCy, LightGBM
   - **Cloud Platforms:** AWS(SageMaker, Lambda, EC2), GCP (Vertex AI, BigQuery), Microsoft Azure, Databricks, Snowflake
