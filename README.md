@@ -21,7 +21,7 @@
    - Identified and evaluated short- and long-term opportunities to enhance auction and machine learning algorithm efficiency, impacting 4,000+ publishers and 140+ demand portfolios.
   - Served as the primary stakeholder for product experimentation, delivering actionable insights and findings to C-suite executives and teams in Product, Marketplace, Engineering, Sales, and Customer Success.
   
-### **Paramount Plus | San Francisco, CA**
+### **Paramount Global | San Francisco, CA**
 &nbsp;_Senior Revenue Optimization Analyst (March 2019 - October 2021)_
   
   - Designed and implemented an unsupervised K-Means Algorithm to classify 5000+ portfolio advertisers by buying patterns and budgets for the Private Marketplace Sales Team, enabling more targeted and effective sales outreach by identifying high-value prospects within similar deal categories.
@@ -71,22 +71,23 @@
   - **Recreated a Second-Price Auction Marketplace**
     - Designed and implemented a second-price auction system in Python to simulate competitive online advertising environments.
     - Secured a top 10 placement out of 130 classmates with a strategic, heuristic-based bidding algorithm balancing exploration and exploitation while barred from the use of machine learning techniques.
-    - [More details in repository]([https://github.com/Alec12/Automating-the-Bechdel-Test](https://github.com/Alec12/AdTech-Second-Price-Auction-Model-Baseline))
+    - [More details in repository](https://github.com/Alec12/AdTech-Second-Price-Auction-Model-Baseline)
+   
+  - **Analyzing Age-Related Trends in SNAP Subsidies: A Data-Driven Study of Social Welfare Distribution**
+    - Designed and implemented regression models using a curated dataset of 6,048 SNAP recipients from the Current Population Survey's ASEC dataset, focusing on individual and family demographics to analyze the effects of aging on subsidy distribution while ensuring statistical integrity through robust data preprocessing and validation techniques.
+    - Applied advanced data cleaning methods, including exclusion of non-metric and collinear variables, and ensured compliance with regression assumptions (e.g., IID sampling, finite covariance) to produce reliable and actionable insights on age-related trends in public assistance
+    - [More details in repository](https://github.com/Alec12/Effects-of-Aging-on-SNAP-subsidy)
       
   - **Capstone: Deepfake Audio Detection** _(In Progress)_
     - Developing a convolutional neural network (CNN) model to detect deepfake audio by analyzing spectrogram features from thousands of labeled audio samples, with a focus on identifying noisy deepfakes.
     - Exploring the use of generative adversarial networks (GANs) to create and test watermarking solutions that identify AI-generated audio without compromising sound quality.
     - Potential applications include combating misinformation in media, aiding companies like Meta in protecting users, and supporting the music industry in distinguishing AI-generated works to align with copyright regulations.
-      
-  - **Data Visualization Project** _(In Progress)_
-    - Designing a web-based interactive dashboard to explore trends in housing prices datasets, integrating D3.js and Plotly for dynamic visualizations.
-    - 	Focusing on user-centric insights by combining data storytelling techniques with predictive analytics, enabling better decision-making for non-technical stakeholders.
-   
+    
   - **Predictive Analysis for Kickstarter Campaigns, Machine Learning & Data Analytics**
     - In a team of five engineers, collected and evaluated 300,000+ Kickstarter projects using NLP to extract and process campaign descriptions for predictive modeling.
     - Built an ensemble classification model using Random Forests, Boosting, Stepwise Regression, Logistic Regression, and Neural Network techniques, achieving actionable insights for campaign success prediction and marketing guidance for creators.
   
-  - **Business Planning for Startups (BPS) | Sonoma, CA (Co-Founder) | April 2016 – August 2018**
+  - **Business Planning for Startups (BPS) | Sonoma, CA (Co-Founder, 2017)**
 
     &nbsp;&nbsp;_*BPS is a pro-bono consulting organization specializing in launch and growth strategies for startups in the Bay Area_
     - Designed comprehensive startup launch plans that include long-term objectives, implementation strategies, and industry/competitor analysis for key stakeholders in companies like River Rock Casino and Lucas Marketing & Media
