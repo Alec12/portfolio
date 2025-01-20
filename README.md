@@ -87,9 +87,9 @@
     - In a team of five engineers, collected and evaluated 300,000+ Kickstarter projects using NLP to extract and process campaign descriptions for predictive modeling.
     - Built an ensemble classification model using Random Forests, Boosting, Stepwise Regression, Logistic Regression, and Neural Network techniques, achieving actionable insights for campaign success prediction and marketing guidance for creators.
   
-  - **Business Planning for Startups (BPS) | Sonoma, CA (Co-Founder, 2017)**
+  - **Business Planning for Startups (BPS)**
 
-    &nbsp;&nbsp;_*BPS is a pro-bono consulting organization specializing in launch and growth strategies for startups in the Bay Area_
+    &nbsp;&nbsp;_*Sonoma, CA (Co-Founder, 2017) BPS is a pro-bono consulting organization specializing in launch and growth strategies for startups in the Bay Area_
     - Designed comprehensive startup launch plans that include long-term objectives, implementation strategies, and industry/competitor analysis for key stakeholders in companies like River Rock Casino and Lucas Marketing & Media
     - Analyzed current and forecasted startup growth patterns to set revenue milestones, marketing strategies, and pro-forma income statements based on current company assets
 
