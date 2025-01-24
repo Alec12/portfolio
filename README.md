@@ -3,7 +3,7 @@
 ## Education
 ### **University of California, Berkeley | Berkeley, CA**
   
-  - **Degree**: Master's of Information and Data Science _(May 2025)_
+  - **Degree**: Master's of Information and Data Science _(April 2025)_
   - **Related Coursework**: Natural Language Processing with Deep Learning, Machine Learning Data Systems, Machine Learning at Scale, Applied Machine Learning, Python Programming, Statistics for Data Science, Data Visualization
   
 ### **University of California, Berkeley | Berkeley, CA**
